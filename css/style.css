@@ -514,3 +514,41 @@ p{
 	background-color: #129DC3;
 	color: #fff;
 }
+
+.contact-icon{
+	padding-top: 50px;
+	padding-bottom: 70px;
+}
+
+.contact-icon ul{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+.contact-icon ul li{
+	list-style: none;
+	display: inline;
+	padding-left: 10px;
+}
+
+
+.contact-icon ul li a{
+	border:  solid 1px #129CD3;
+	border-radius: 5px;
+	text-align: center;
+	padding-top: 10px;
+	display: inline-block;
+	text-decoration: none;
+	width: 45px;
+	height: 45px;
+}
+
+
+.contact-icon ul li a:hover{
+	background-color: #129CD3;
+}
+
+.contact-icon ul li a i{
+	font-size: 25px;
+}
