@@ -547,8 +547,51 @@ p{
 
 .contact-icon ul li a:hover{
 	background-color: #129CD3;
+
 }
 
 .contact-icon ul li a i{
 	font-size: 25px;
 }
+
+
+/*==============Footer===========*/
+
+.footer{
+	background-color: #1a1a1a;
+	padding-bottom: 35px;
+	padding-top: 35px;
+	border: solid 1px #129CD3;
+}
+
+#copyright{
+	width: 50%;
+}
+
+
+#copyright p{
+	color: #8C8A8B;
+	font-size: 13px;
+	font-weight: 300;
+	text-transform: uppercase;
+}
+.scroll-top{
+	text-align: right;
+}
+
+.scroll-top a{
+	border: solid 1px #129BC3;
+	padding: 25px;
+}
+
+.scroll-top a i{
+	font-size: 30px;
+	font-weight: 300;
+}
+
+.scroll-top a:hover{
+	background-color: #129CD3;
+	color: #fff;
+}
+
+
